@@ -1,11 +1,11 @@
 {
   "name": "node-libs-browser-react-native",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "woeom",
   "description": "The node core libs for in browser usage.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/webpack/node-libs-browser-react-native.git"
+    "url": "git+https://github.com/WoeOm/node-libs-browser-react-native.git"
   },
   "dependencies": {
     "assert": "^1.1.1",
@@ -32,7 +32,7 @@
     "util": "^0.10.3",
     "vm-browserify": "0.0.4"
   },
-  "homepage": "http://github.com/webpack/node-libs-browser-react-native",
+  "homepage": "https://github.com/WoeOm/node-libs-browser-react-native",
   "main": "index.js",
   "files": [
     "index.js",
@@ -43,6 +43,6 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/webpack/node-libs-browser-react-native/issues"
+    "url": "https://github.com/WoeOm/node-libs-browser-react-native/issues"
   }
 }
